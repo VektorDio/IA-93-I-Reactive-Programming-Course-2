@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.impl.TradeServiceTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-09T12:20:51" hostname="DESKTOP-0EC54BR" time="0.664">
+  <properties/>
+  <testcase name="tradeServiceTest()" classname="service.impl.TradeServiceTests" time="0.664"/>
+  <system-out><![CDATA[15:20:51.459 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+15:20:51.978 [Test worker] WARN trade-service - .buffer(Duration.ofMillis(100)) onNext([])
+15:20:51.980 [Test worker] WARN trade-service - .buffer(Duration.ofMillis(100)) onNext([Trade{id=1, timestamp=1, price=1.0, amount=1.0, currency='test', market='test'}, Trade{id=2, timestamp=1, price=1.0, amount=1.0, currency='test', market='test'}, Trade{id=3, timestamp=1, price=1.0, amount=1.0, currency='test', market='test'}, Trade{id=4, timestamp=1, price=1.0, amount=1.0, currency='test', market='test'}])
+15:20:52.042 [Test worker] WARN trade-service - .buffer(Duration.ofMillis(100)) onNext([])
+15:20:52.043 [Test worker] WARN trade-service - .buffer(Duration.ofMillis(100)) onNext([Trade{id=1, timestamp=1, price=1.0, amount=1.0, currency='test', market='test'}, Trade{id=2, timestamp=1, price=1.0, amount=1.0, currency='test', market='test'}, Trade{id=3, timestamp=1, price=1.0, amount=1.0, currency='test', market='test'}, Trade{id=4, timestamp=1, price=1.0, amount=1.0, currency='test', market='test'}])
+15:20:52.044 [Test worker] WARN trade-service - .buffer(Duration.ofMillis(100)) onNext([])
+15:20:52.048 [Test worker] WARN trade-service - .buffer(Duration.ofMillis(100)) onNext([])
+15:20:52.050 [Test worker] WARN trade-service - .buffer(Duration.ofMillis(100)) onNext([Trade{id=5, timestamp=1, price=1.0, amount=1.0, currency='test', market='test'}, Trade{id=6, timestamp=1, price=1.0, amount=1.0, currency='test', market='test'}, Trade{id=7, timestamp=1, price=1.0, amount=1.0, currency='test', market='test'}, Trade{id=8, timestamp=1, price=1.0, amount=1.0, currency='test', market='test'}, Trade{id=9, timestamp=1, price=1.0, amount=1.0, currency='test', market='test'}, Trade{id=10, timestamp=1, price=1.0, amount=1.0, currency='test', market='test'}, Trade{id=11, timestamp=1, price=1.0, amount=1.0, currency='test', market='test'}, Trade{id=12, timestamp=1, price=1.0, amount=1.0, currency='test', market='test'}])
+15:20:52.052 [Test worker] WARN trade-service - .buffer(Duration.ofMillis(100)) onNext([])
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

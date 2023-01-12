@@ -1,0 +1,15 @@
+s02:02:56,787 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]
+q02:02:56,787 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback.groovy]
+«02:02:56,788 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [file:/C:/Users/vekto/Desktop/%d0%a4%d0%9f/%d0%9b%d0%b0%d0%b1%d1%8b/lab7/Reactive%20Programming%20Course%202/Reactive%20In%20Action/Crypto%20Tracker/application/build/resources/test/logback.xml]
+‡02:02:56,788 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs multiple times on the classpath.
+¬02:02:56,788 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs at [file:/C:/Users/vekto/Desktop/%d0%a4%d0%9f/%d0%9b%d0%b0%d0%b1%d1%8b/lab7/Reactive%20Programming%20Course%202/Reactive%20In%20Action/Crypto%20Tracker/application/build/resources/test/logback.xml]
+¬02:02:56,788 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs at [file:/C:/Users/vekto/Desktop/%d0%a4%d0%9f/%d0%9b%d0%b0%d0%b1%d1%8b/lab7/Reactive%20Programming%20Course%202/Reactive%20In%20Action/Crypto%20Tracker/application/build/resources/main/logback.xml]
+j02:02:56,848 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set
+–02:02:56,849 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+f02:02:56,854 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [STDOUT]
+¶02:02:56,858 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+t02:02:56,877 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to WARN
+02:02:56,877 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[ROOT]
+h02:02:56,877 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.
+‹02:02:56,878 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@67389cb8 - Registering current configuration as safe fallback point
+
